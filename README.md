@@ -6,7 +6,7 @@ GitHub: https://github.com/MarcianoGordo
 
 #Explicação
 
-Modelo básico feito com intuito de aprendizado para apresentação de seminário de um código para aprendizado de máquina focado na comparação de valores em Data Sets.
+Modelo básico feito com intuito de aprendizado para apresentação de seminário de um código para machine learning focado na comparação de valores em Data Sets.
 
 #Bibliotecas Ultilizadas
 
